@@ -1,2 +1,5 @@
-console.log('abc'
-)
+let a = 3; 
+
+console.log('a', a); 
+
+
